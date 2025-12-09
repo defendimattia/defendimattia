@@ -11,7 +11,7 @@ I enjoy working across the full stack, with a strong interest in **backend devel
 - 🎓 Junior Full-Stack Web Developer  
 - 💡 Passionate about backend architecture, SQL, and building clean, maintainable systems  
 - 🤝 Open to collaboration and learning new technologies  
-- 🌱 Currently improving my backend skills Python  
+- 🌱 Currently improving my backend skills in Python  
 
 ---
 
