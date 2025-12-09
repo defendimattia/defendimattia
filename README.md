@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Mattia Defendi 👋  
+**Junior Full-Stack Web Developer**
 
-<!--
-**defendimattia/defendimattia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently completed my studies in Web Development and I'm now looking for opportunities to grow as a developer.  
+I enjoy working across the full stack, with a strong interest in **backend development**, **APIs**, and especially **databases**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+- 🎓 Junior Full-Stack Web Developer  
+- 💡 Passionate about backend architecture, SQL, and building clean, maintainable systems  
+- 🤝 Open to collaboration and learning new technologies  
+- 🌱 Currently improving my backend skills Python  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- HTML, CSS, JavaScript  
+- Bootstrap  
+- React  
+
+### **Backend**
+- Node.js, Express.js  
+- Java – Spring, Spring Boot, Thymeleaf  
+- Python  
+
+### **Databases**
+- MySQL  
+- PostgreSQL  
+- SQL (queries, design, optimization)
+
+### **Tools**
+- Maven  
+- Git & GitHub  
+
+
+---
+
+## 📫 Contact
+- **LinkedIn:** [Mattia Defendi](https://www.linkedin.com/in/mattia-defendi-434862248/)  
+- **Email:** defendi.mattia92@gmail.com  
+
+---
+
+Thanks for visiting my profile!
