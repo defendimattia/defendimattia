@@ -1,5 +1,5 @@
-#Hello World!
-#I'm Mattia Defendi 
+# Hello World!
+# I'm Mattia Defendi 
 **Junior Full-Stack Web Developer**
 
 I recently completed my studies in Web Development and I'm now looking for opportunities to grow as a developer.  
