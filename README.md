@@ -1,4 +1,4 @@
-# Hi, I'm Mattia Defendi 👋  
+# Hi, I'm Mattia Defendi 
 **Junior Full-Stack Web Developer**
 
 I recently completed my studies in Web Development and I'm now looking for opportunities to grow as a developer.  
@@ -6,7 +6,7 @@ I enjoy working across the full stack, with a strong interest in **backend devel
 
 ---
 
-## 🧩 About Me
+## About Me
 - 🎓 Junior Full-Stack Web Developer  
 - 💡 Passionate about backend architecture, SQL, and building clean, maintainable systems  
 - 🤝 Open to collaboration and learning new technologies  
